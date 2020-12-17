@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.22c7f83a.chunk.js",
-    "main.js.map": "/static/js/main.22c7f83a.chunk.js.map",
+    "main.js": "/static/js/main.5a2d09a2.chunk.js",
+    "main.js.map": "/static/js/main.5a2d09a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f90e3134.js",
     "runtime-main.js.map": "/static/js/runtime-main.f90e3134.js.map",
-    "static/js/2.768d8dc6.chunk.js": "/static/js/2.768d8dc6.chunk.js",
-    "static/js/2.768d8dc6.chunk.js.map": "/static/js/2.768d8dc6.chunk.js.map",
+    "static/js/2.7a16405f.chunk.js": "/static/js/2.7a16405f.chunk.js",
+    "static/js/2.7a16405f.chunk.js.map": "/static/js/2.7a16405f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fd2725899f2664c845cd5531b4b2a1f6.js": "/precache-manifest.fd2725899f2664c845cd5531b4b2a1f6.js",
+    "precache-manifest.78378daa4bb32d3cc1518011a0d46dbc.js": "/precache-manifest.78378daa4bb32d3cc1518011a0d46dbc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.768d8dc6.chunk.js.LICENSE.txt": "/static/js/2.768d8dc6.chunk.js.LICENSE.txt",
+    "static/js/2.7a16405f.chunk.js.LICENSE.txt": "/static/js/2.7a16405f.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.fc9bdbe6.jpg",
     "static/media/10.jpg": "/static/media/10.792e95a9.jpg",
     "static/media/11.jpg": "/static/media/11.c09c89b8.jpg",
@@ -36,6 +36,8 @@
     "static/media/ENG333.png": "/static/media/ENG333.7f56aeae.png",
     "static/media/IDS201.png": "/static/media/IDS201.f8713eb1.png",
     "static/media/avatar.png": "/static/media/avatar.b33db045.png",
+    "static/media/bg-research.jpg": "/static/media/bg-research.5408260f.jpg",
+    "static/media/bg-teaching.jpeg": "/static/media/bg-teaching.b342b27b.jpeg",
     "static/media/gs_logo.png": "/static/media/gs_logo.6ba817c4.png",
     "static/media/hastac_logo.png": "/static/media/hastac_logo.013d25fd.png",
     "static/media/hnu_logo.png": "/static/media/hnu_logo.86867f8f.png",
@@ -48,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f90e3134.js",
-    "static/js/2.768d8dc6.chunk.js",
+    "static/js/2.7a16405f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.22c7f83a.chunk.js"
+    "static/js/main.5a2d09a2.chunk.js"
   ]
 }
