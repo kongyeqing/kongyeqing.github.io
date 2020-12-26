@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "701620d1c93395cc55d2568093e87fa6",
+    "revision": "3a1ba38ee22ca366da693cdb39a70341",
     "url": "/index.html"
   },
   {
-    "revision": "ddd7c4671a15fb718588",
+    "revision": "af0e42040e6f546c7e55",
     "url": "/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.768d8dc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddd7c4671a15fb718588",
-    "url": "/static/js/main.84ad46b7.chunk.js"
+    "revision": "af0e42040e6f546c7e55",
+    "url": "/static/js/main.4da0171a.chunk.js"
   },
   {
     "revision": "f77334caef7119a16388",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gs_logo.6ba817c4.png"
   },
   {
-    "revision": "013d25fd1024d86066003ffd2aeaf880",
-    "url": "/static/media/hastac_logo.013d25fd.png"
+    "revision": "64e925ff6c58c8203ebb1e38a39beedf",
+    "url": "/static/media/hastac_logo.64e925ff.png"
   },
   {
     "revision": "86867f8f57a49300273946e9687de7c5",
